@@ -1,0 +1,12 @@
+# Programm-/Datenbankdateien (enthalten echte Mieterdaten)
+nebenkosten.db
+*.db
+*.db-journal
+*.db-wal
+*.backup.json
+userdata/
+target/
+
+# System
+.DS_Store
+Thumbs.db

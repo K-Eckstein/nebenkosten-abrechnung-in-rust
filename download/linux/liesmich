@@ -1,0 +1,111 @@
+========================================================================
+NEBENKOSTENABRECHNUNG (WINDOWS & LINUX) – LIESMICH / ANLEITUNG
+========================================================================
+
+Vielen Dank für dein Interesse an dieser Software!
+
+Dieses Programm wurde aus der eigenen Vermieter-Praxis heraus entwickelt
+und wird dauerhaft kostenlos (Freeware) ohne Werbung, ohne Abo-Zwang und
+ohne Beschränkung der Objekte oder Wohneinheiten zur Verfügung gestellt.
+
+------------------------------------------------------------------------
+1. FUNKTIONSÜBERSICHT
+------------------------------------------------------------------------
+- Verwaltung beliebig vieler Objekte, Wohneinheiten und Mieter
+- Alle gängigen BetrKV-Kostenarten (unbegrenzt erweiterbar)
+- Flexible Umlageschlüssel (Wohnfläche, Personen, Verbrauch, Tage,
+  2-Schlüssel-Mix wie z. B. 30/70 nach HeizkostenV, freie Bezugsfläche)
+- Automatische CO2-Kostenaufteilung nach Stufenmodell (CO2KostAufG)
+- Centgenaue Berechnung bei Mieterwechsel und Leerstand
+- Zählerwechsel im laufenden Jahr: mehrere Zähler pro Einheit,
+  der Verbrauch wird automatisch summiert
+- Vorschlag für angepasste Vorauszahlungen im Folgejahr
+- Integriertes Vermieter-Journal
+- PDF-Export (Mieteranschreiben & Vermieter-Übersicht)
+- CSV-Export für die Steuererklärung / den Steuerberater
+- Jahres-Archivierung (ZIP-Backup aller PDFs und Rohdaten)
+
+------------------------------------------------------------------------
+2. INSTALLATION & START (PORTABLE)
+------------------------------------------------------------------------
+Das Programm benötigt KEINE Installation und nimmt keine Änderungen an
+deinem Betriebssystem vor. Alle Daten bleiben zu 100 % lokal auf deinem
+Rechner.
+
+WINDOWS:
+1. Lade die Windows-Datei (.exe) in einen beliebigen Ordner auf deinem PC
+   (z. B. C:\Programme_Eigen\Nebenkosten oder auf einen USB-Stick).
+2. Starte die Datei per Doppelklick. Beim ersten Start legt das Programm
+   seine lokale Datenbank-Datei automatisch im selben Ordner an.
+
+Hinweis zur Windows-SmartScreen-Meldung:
+Da dies ein privates Freeware-Projekt ist und kein kostenpflichtiges
+Microsoft-Entwicklerzertifikat erworben wurde, zeigt Windows beim ersten
+Start möglicherweise den Hinweis "Der Computer wurde durch Windows
+geschützt" an.
+So startest du das Programm trotzdem: Klicke im blauen Fenster auf
+"Weitere Informationen" und anschließend auf "Trotzdem ausführen".
+
+LINUX:
+1. Lade die Linux-Datei (.AppImage) herunter.
+2. Mache die Datei ausführbar (Rechtsklick -> Eigenschaften ->
+   Berechtigungen -> "Als Programm ausführen" ODER im Terminal:
+   chmod +x Dateiname.AppImage).
+3. Starte das Programm per Doppelklick oder über das Terminal.
+
+------------------------------------------------------------------------
+3. DATENSICHERUNG (BACKUP)
+------------------------------------------------------------------------
+Da alle Daten lokal in einer eigenen Datenbank-Datei im Programmordner
+gespeichert werden, solltest du regelmäßig eine Sicherungskopie dieses
+Ordners (oder der erzeugten ZIP-Archive) auf einem externen Datenträger
+anlegen.
+
+------------------------------------------------------------------------
+4. LIZENZ & FREIWILLIGE UNTERSTÜTZUNG
+------------------------------------------------------------------------
+Die Nutzung dieser Software ist für private und gewerbliche Vermieter
+dauerhaft kostenlos. Eine Weitergabe der unveränderten Originaldateien
+ist ausdrücklich erlaubt. Ein Verkauf der Software ist untersagt.
+
+Wenn dir das Programm bei der jährlichen Abrechnung Zeit spart, freue
+ich mich über eine kleine freiwillige Spende für die Kaffeekasse:
+
+    https://www.paypal.me/KaffekasseNebenkoste
+
+(Der Link steht auch im Programm selbst: Tab "Hilfe" -> "Kaffeekasse".)
+
+------------------------------------------------------------------------
+5. RECHTLICHER HINWEIS & HAFTUNGSAUSSCHLUSS
+------------------------------------------------------------------------
+1. Keine Rechts- oder Steuerberatung:
+Diese Software dient ausschließlich als technisches Hilfsmittel zur
+Erstellung von Betriebskosten- und Heizkostenabrechnungen. Sie ersetzt
+keine fachkundige rechtliche, mietrechtliche oder steuerliche Beratung
+durch einen Rechtsanwalt, Steuerberater oder Haus- und Grundbesitzerverein.
+
+2. Prüfpflicht des Nutzers:
+Jeder Nutzer ist selbst dafür verantwortlich, die eingegebenen Daten,
+gewählten Umlageschlüssel, gesetzlichen Fristen sowie die vom Programm
+erstellten Abrechnungen vor dem Versand an Mieter oder das Finanzamt
+eigenverantwortlich auf sachliche und rechtliche Richtigkeit zu prüfen.
+
+3. Haftungsbeschränkung (Unentgeltliche Überlassung):
+Die Software wird unentgeltlich ("wie besehen" / "as is") zur Verfügung
+gestellt. Der Entwickler übernimmt keinerlei Gewährleistung für die
+Fehlerfreiheit, Vollständigkeit, Aktualität (insbesondere bei
+Gesetzesänderungen) oder Eignung für einen bestimmten Zweck.
+
+Jegliche Haftung des Entwicklers für unmittelbare oder mittelbare
+Schäden – insbesondere für entgangene Nachzahlungen, fehlerhafte
+Abrechnungen gegenüber Mietern, Datenverlust oder Folgeschäden –, die
+aus der Nutzung oder Nichtnutzbarkeit der Software entstehen, ist
+ausgeschlossen, soweit dem Entwickler nicht Vorsatz oder grobe
+Fahrlässigkeit zur Last fällt. Die zwingende Haftung für Schäden aus
+der Verletzung des Lebens, des Körpers oder der Gesundheit bleibt hiervon
+unberührt.
+
+Mit dem Starten und Nutzen der Software erkennt der Nutzer diese
+Bedingungen an.
+========================================================================
+
